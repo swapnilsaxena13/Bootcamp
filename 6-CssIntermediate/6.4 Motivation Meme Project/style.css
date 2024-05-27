@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+img{
+    margin-top: 75px;
+    border:5px solid whitesmoke;
+    align-items: center;
+}
+h1{
+    color:white;
+    font-size:xx-large;
+    align-items: center;
+}
+p{
+    color:white;
+    
+    align-items: center;
+}
