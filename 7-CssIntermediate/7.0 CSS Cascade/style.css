@@ -3,8 +3,16 @@
 .box {
   background-color: blue;
   padding: 10px;
+  
 }
-
+#outer-box{
+  margin: 10px;
+  border: 10px solid brown;
+}
+.inner-box{
+  background-color: red;
+  color:white;
+}
 p {
   color: yellow;
   margin: 0;
